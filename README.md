@@ -1,2 +1,2 @@
 # Alex
-<a href="https://github.com/MathieuCoynet/Alex/blob/master/index.html">Clique-ici</a>
+<a href="https://htmlpreview.github.io/?https://github.com/MathieuCoynet/Alex/blob/master/index.html">Clique-ici</a>
